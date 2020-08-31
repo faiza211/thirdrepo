@@ -1,1 +1,2 @@
 Creted a new file in new branch test
+Hello world changes from smartgit
